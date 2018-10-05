@@ -1,0 +1,36 @@
+* Tasks for implementation
+** View
+*** TODO Highlight headings
+*** TODO Highlight current subtree
+*** TODO Highlight planning
+** Navigation
+*** TODO Go over node siblings
+*** TODO Go level up
+** Visibility cycling
+*** TODO Toggle current node
+*** TODO Toggle parent node
+*** TODO Toggle all document nodes
+*** TODO tracking visibility state of the document
+** Searching
+** Editing
+*** TODO Insert sibling node
+*** TODO Insert child node
+*** TODO Autosave
+*** TODO Move current node up/down in the current level
+*** TODO Move current node level up
+*** TODO Move current node in arbitrary place of the document
+** Planning
+*** TODO Rotate the TODO state of the current item
+*** TODO Insert a new TODO entry below the current one
+*** TODO Show the global TODO list
+** Clocking
+*** TODO Clock in
+*** TODO Clock out
+*** TODO Show clocking report
+** Agendas
+** Capturing
+*** TODO Capture simple text item
+** Tables
+** Exporting
+** Embedding external code
+** Encryption

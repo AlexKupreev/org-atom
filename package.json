@@ -4,6 +4,9 @@
   "version": "0.0.0",
   "description": "Self-organization in Atom editor (org-mode-like)",
   "keywords": [
+    "org-mode",
+    "todo",
+    "outline"
   ],
   "activationCommands": {
     "atom-workspace": "org-atom:toggle"
