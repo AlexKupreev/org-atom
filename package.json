@@ -1,0 +1,18 @@
+{
+  "name": "org-atom",
+  "main": "./lib/org-atom",
+  "version": "0.0.0",
+  "description": "Self-organization in Atom editor (org-mode-like)",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "org-atom:toggle"
+  },
+  "repository": "https://github.com/AlexKupreev/org-atom",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
